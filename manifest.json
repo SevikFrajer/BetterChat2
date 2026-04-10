@@ -1,0 +1,13 @@
+{
+  "name": "BetterChat",
+  "short_name": "BetterChat",
+  "description": "BetterChat – Kick viewer s 7TV emoty",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08080e",
+  "theme_color": "#08080e",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
